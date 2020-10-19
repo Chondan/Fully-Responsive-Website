@@ -1,0 +1,10 @@
+.products {
+	height: 100vh;
+	background: url(/images/img-7.jpg) center center/cover no-repeat;
+	color: white;
+	line-height: 20vh;
+	font-size: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
