@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fully-Responsive-Website/static/css/main.08faceaf.chunk.css",
+    "main.js": "/Fully-Responsive-Website/static/js/main.ef77d107.chunk.js",
+    "main.js.map": "/Fully-Responsive-Website/static/js/main.ef77d107.chunk.js.map",
+    "runtime-main.js": "/Fully-Responsive-Website/static/js/runtime-main.0947d323.js",
+    "runtime-main.js.map": "/Fully-Responsive-Website/static/js/runtime-main.0947d323.js.map",
+    "static/js/2.819b176d.chunk.js": "/Fully-Responsive-Website/static/js/2.819b176d.chunk.js",
+    "static/js/2.819b176d.chunk.js.map": "/Fully-Responsive-Website/static/js/2.819b176d.chunk.js.map",
+    "index.html": "/Fully-Responsive-Website/index.html",
+    "precache-manifest.73cf7e52d8c13162ae112be998892f92.js": "/Fully-Responsive-Website/precache-manifest.73cf7e52d8c13162ae112be998892f92.js",
+    "service-worker.js": "/Fully-Responsive-Website/service-worker.js",
+    "static/css/main.08faceaf.chunk.css.map": "/Fully-Responsive-Website/static/css/main.08faceaf.chunk.css.map",
+    "static/js/2.819b176d.chunk.js.LICENSE.txt": "/Fully-Responsive-Website/static/js/2.819b176d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0947d323.js",
+    "static/js/2.819b176d.chunk.js",
+    "static/css/main.08faceaf.chunk.css",
+    "static/js/main.ef77d107.chunk.js"
+  ]
+}
