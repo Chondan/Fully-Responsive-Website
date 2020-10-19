@@ -10,7 +10,7 @@ const bindClass = bindClassMethod.bind(styles);
 function NavLink({ to, onClick, ...props }) {
 	return (
 		<li className={bindClass(["nav-item"])}>
-			<Link to={to} className={bindClass(to === "/sign-up" ? ["nav-links-mobile", "nav-links"] : ["nav-links"])} onClick={onClick}>
+			<Link to={to} className={bindClass(to === "/Fully-Responsive-Website/sign-up" ? ["nav-links-mobile", "nav-links"] : ["nav-links"])} onClick={onClick}>
 				{props.children}
 			</Link>
 		</li>		
@@ -39,7 +39,7 @@ function Navbar() {
 		<>
 			<nav className={bindClass(["nav-bar"])}>
 				<div className={bindClass(["navbar-container"])}>
-					<Link to="/" className={bindClass(["navbar-logo"])} onClick={closeMobileMenu} >
+					<Link to="/Fully-Responsive-Website/" className={bindClass(["navbar-logo"])} onClick={closeMobileMenu} >
 						TRVL <i className="fab fa-typo3" />
 					</Link>
 					<div 
@@ -50,12 +50,12 @@ function Navbar() {
 					</div>
 					<ul className={click ? bindClass(["nav-menu", "active"]) : bindClass(["nav-menu"])}>
 						{NAV_LINKS.map(link => (
-							<NavLink key={link} to={link === "home" ? "/" : `/${link}`} onClick={closeMobileMenu}>
+							<NavLink key={link} to={link === "home" ? "/Fully-Responsive-Website/" : `/Fully-Responsive-Website/${link}`} onClick={closeMobileMenu}>
 								{link}
 							</NavLink>
 						))}
 					</ul>
-					{button && <Button buttonStyle="btn--outline">Sign Up</Button>}
+					{button && <Button buttonStyle="btn--outline" to="/Fully-Responsive-Website/sign-up">Sign Up</Button>}
 				</div>
 			</nav>
 		</>

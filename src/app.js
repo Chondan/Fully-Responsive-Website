@@ -9,11 +9,11 @@ function App() {
 			<Router>
 				<Navbar />
 				<Switch>
-					<Route path="/" exact component={Home}/>
-					<Route path="/products" exact component={Products} />
-					<Route path="/products/imgs/:imgId" render={({ match }) => <Products match={match} />} />
-					<Route path="/services" component={Services} />
-					<Route path="/sign-up" component={SignUp} />
+					<Route path="/Fully-Responsive-Website" exact component={Home}/>
+					<Route path="/Fully-Responsive-Website/products" exact component={Products} />
+					<Route path="/Fully-Responsive-Website/products/imgs/:imgId" render={({ match }) => <Products match={match} />} />
+					<Route path="/Fully-Responsive-Website/services" component={Services} />
+					<Route path="/Fully-Responsive-Website/sign-up" component={SignUp} />
  				</Switch>
 			</Router>
 		</>

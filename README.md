@@ -45,7 +45,7 @@ const checkButtonStyle = STYLES.includes(buttonStyle) ? buttonStyle : STYLES[0];
 ```
 
 ## Videos
-- `<video src="/videos/video-2.mp4" />` (start form public folder)
+- `<video src="/videos/video-2.mp4" />` (start form public folder (public folder == root url))
 
 ## CSS
 - video { object-fit: cover }

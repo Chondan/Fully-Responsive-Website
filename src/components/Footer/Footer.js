@@ -37,62 +37,62 @@ function Footer() {
 				<div className={bindClass(["footer-link-wrapper"])}>
 					<div className={bindClass(["footer-link-items"])}>
 						<h2>About Us</h2>
-						<Link to="/sign-up">How it works</Link>
-						<Link to="/">Testimonials</Link>
-						<Link to="/">Careers</Link>
-						<Link to="/">Investors</Link>
-						<Link to="/">Term of Services</Link>
+						<Link to="/Fully-Responsive-Website/sign-up">How it works</Link>
+						<Link to="/Fully-Responsive-Website/">Testimonials</Link>
+						<Link to="/Fully-Responsive-Website/">Careers</Link>
+						<Link to="/Fully-Responsive-Website/">Investors</Link>
+						<Link to="/Fully-Responsive-Website/">Term of Services</Link>
 					</div>
 					<div className={bindClass(["footer-link-items"])}>
 						<h2>Contact Us</h2>
-						<Link to="/sign-up">How it works</Link>
-						<Link to="/">Testimonials</Link>
-						<Link to="/">Careers</Link>
-						<Link to="/">Investors</Link>
-						<Link to="/">Term of Services</Link>
+						<Link to="/Fully-Responsive-Website/sign-up">How it works</Link>
+						<Link to="/Fully-Responsive-Website/">Testimonials</Link>
+						<Link to="/Fully-Responsive-Website/">Careers</Link>
+						<Link to="/Fully-Responsive-Website/">Investors</Link>
+						<Link to="/Fully-Responsive-Website/">Term of Services</Link>
 					</div>
 				</div>
 				<div className={bindClass(["footer-link-wrapper"])}>
 					<div className={bindClass(["footer-link-items"])}>
 						<h2>About Us</h2>
-						<Link to="/sign-up">How it works</Link>
-						<Link to="/">Testimonials</Link>
-						<Link to="/">Careers</Link>
-						<Link to="/">Investors</Link>
-						<Link to="/">Term of Services</Link>
+						<Link to="/Fully-Responsive-Website/sign-up">How it works</Link>
+						<Link to="/Fully-Responsive-Website/">Testimonials</Link>
+						<Link to="/Fully-Responsive-Website/">Careers</Link>
+						<Link to="/Fully-Responsive-Website/">Investors</Link>
+						<Link to="/Fully-Responsive-Website/">Term of Services</Link>
 					</div>
 					<div className={bindClass(["footer-link-items"])}>
 						<h2>Contact Us</h2>
-						<Link to="/sign-up">How it works</Link>
-						<Link to="/">Testimonials</Link>
-						<Link to="/">Careers</Link>
-						<Link to="/">Investors</Link>
-						<Link to="/">Term of Services</Link>
+						<Link to="/Fully-Responsive-Website/sign-up">How it works</Link>
+						<Link to="/Fully-Responsive-Website/">Testimonials</Link>
+						<Link to="/Fully-Responsive-Website/">Careers</Link>
+						<Link to="/Fully-Responsive-Website/">Investors</Link>
+						<Link to="/Fully-Responsive-Website/">Term of Services</Link>
 					</div>
 				</div>
 				<div className={bindClass(["footer-link-wrapper"])}>
 					<div className={bindClass(["footer-link-items"])}>
 						<h2>About Us</h2>
-						<Link to="/sign-up">How it works</Link>
-						<Link to="/">Testimonials</Link>
-						<Link to="/">Careers</Link>
-						<Link to="/">Investors</Link>
-						<Link to="/">Term of Services</Link>
+						<Link to="/Fully-Responsive-Website/sign-up">How it works</Link>
+						<Link to="/Fully-Responsive-Website/">Testimonials</Link>
+						<Link to="/Fully-Responsive-Website/">Careers</Link>
+						<Link to="/Fully-Responsive-Website/">Investors</Link>
+						<Link to="/Fully-Responsive-Website/">Term of Services</Link>
 					</div>
 					<div className={bindClass(["footer-link-items"])}>
 						<h2>Contact Us</h2>
-						<Link to="/sign-up">How it works</Link>
-						<Link to="/">Testimonials</Link>
-						<Link to="/">Careers</Link>
-						<Link to="/">Investors</Link>
-						<Link to="/">Term of Services</Link>
+						<Link to="/Fully-Responsive-Website/sign-up">How it works</Link>
+						<Link to="/Fully-Responsive-Website/">Testimonials</Link>
+						<Link to="/Fully-Responsive-Website/">Careers</Link>
+						<Link to="/Fully-Responsive-Website/">Investors</Link>
+						<Link to="/Fully-Responsive-Website/">Term of Services</Link>
 					</div>
 				</div>
 			</div>
 			<section className={bindClass(["social-media"])}>
 				<div className={bindClass(["social-media-wrap"])}>
 					<div className={bindClass(["footer-logo"])}>
-						<Link to="/" className={bindClass(["social-logo"])}>
+						<Link to="/Fully-Responsive-Website/" className={bindClass(["social-logo"])}>
 							TRVL <i className="fab fa-typo3"></i>
 						</Link>
 					</div>
@@ -100,7 +100,7 @@ function Footer() {
 					<div className={bindClass(["social-icons"])}>
 						<Link 
 							className={bindClass(["social-icon-link", "facebook"])}
-							to="/"
+							to="/Fully-Responsive-Website/"
 							target="_blank"
 							aria-label="Facebook"
 						>
@@ -108,7 +108,7 @@ function Footer() {
 						</Link>
 						<Link 
 							className={bindClass(["social-icon-link", "instagram"])}
-							to="/"
+							to="/Fully-Responsive-Website/"
 							target="_blank"
 							aria-label="Instagram"
 						>
@@ -116,7 +116,7 @@ function Footer() {
 						</Link>
 						<Link 
 							className={bindClass(["social-icon-link", "youtube"])}
-							to="/"
+							to="/Fully-Responsive-Website/"
 							target="_blank"
 							aria-label="Youtube"
 						>
@@ -124,7 +124,7 @@ function Footer() {
 						</Link>
 						<Link 
 							className={bindClass(["social-icon-link", "twitter"])}
-							to="/"
+							to="/Fully-Responsive-Website/"
 							target="_blank"
 							aria-label="Twitter"
 						>
@@ -132,7 +132,7 @@ function Footer() {
 						</Link>
 						<Link 
 							className={bindClass(["social-icon-link", "linkedin"])}
-							to="/"
+							to="/Fully-Responsive-Website/"
 							target="_blank"
 							aria-label="Linkedin"
 						>

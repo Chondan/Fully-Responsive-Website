@@ -16,13 +16,13 @@ function Cards() {
 							src="images/img-9.jpg"
 							text="Explore the hidden waterfall deep inside the Amazon Jungle"
 							label="Adventure"
-							path="/products/imgs/img-9"
+							path="/Fully-Responsive-Website/products/imgs/img-9"
 						 />
 						 <CardItem
 							src="images/img-2.jpg"
 							text="Travel through the Islands of Bali in a Pivate Cruise"
 							label="Luxury"
-							path="/products/imgs/img-2"
+							path="/Fully-Responsive-Website/products/imgs/img-2"
 						 />
 					</ul>
 					<ul className={bindClass(["cards__items"])}>
@@ -30,19 +30,19 @@ function Cards() {
 							src="images/img-3.jpg"
 							text="Set Sail in the Atlantic Ocean visiting Uncharted Waters"
 							label="Mystery"
-							path="/products/imgs/img-3"
+							path="/Fully-Responsive-Website/products/imgs/img-3"
 						 />
 						 <CardItem
 							src="images/img-4.jpg"
 							text="Experience Football on Top of the Himilayan Mountains"
 							label="Adventure"
-							path="/products/imgs/img-4"
+							path="/Fully-Responsive-Website/products/imgs/img-4"
 						 />
 						 <CardItem
 							src="images/img-8.jpg"
 							text="Ride through the Sahara Desert on a guided camel tour"
 							label="Adrenaline"
-							path="/products/imgs/img-8"
+							path="/Fully-Responsive-Website/products/imgs/img-8"
 						 />
 					</ul>
 				</div>
